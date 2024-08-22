@@ -1,1 +1,1 @@
-# Mental-Health-Predictor
+# Mental_Health_Prediction
